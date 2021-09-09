@@ -1,0 +1,36 @@
+<! doctype html>
+<html lang="en">
+<head>
+   <title>keluth Sanjeev</title>
+   <meta charset="utf-8">
+   <meta name="viewport"
+content="width-divce-width,
+initial-scale=1.0">
+</head>
+<style>
+body{
+  text-align:center;
+}
+ h1{color:#4F6F6F;
+ text-align: center;
+p{
+color:grey;
+}
+
+</style>
+<body>
+   <h1>assignment-2</h1>
+
+    <div class="card">
+    <img idth=600
+  src="keluth sanjeev.jpeg">
+    <h2>keluth sanjeev</h2>
+     <p><i><b>computer science
+   Engineering</b><i</p>
+      <h3>National institution of
+   Technology Patna</h3>
+         </di>
+ 
+        </body>
+      
+        </html>
